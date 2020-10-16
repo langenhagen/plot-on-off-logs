@@ -1,0 +1,4 @@
+.python-version
+.venv/
+.ipynb_checkpoints/
+.vscode/
